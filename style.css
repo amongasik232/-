@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: orange;
+    color: white;
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+h1  {
+    color: aqua;
+    text-align: center;
+    font-style: italic;
+
+
+}
+
+p{
+    color: brown;
+    margin-left: 20px;
+
+}
+
+footer p{
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    background-color: rgb(255, 174, 0);
+    width: 50%;
+}
+
+
+main p{
+    color: brown;
+    margin-left: 20px;
+
+}
